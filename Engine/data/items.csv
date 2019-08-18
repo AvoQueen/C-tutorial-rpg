@@ -1,0 +1,13 @@
+type, id, name, namePlural, description, minDamage, maxDamage, amtHealing
+weapon, 1, Rusty sword, Rusty Swords, A rusty sword., 1, 5, 0
+weapon, 2, Copper sword, Copper swords, A copper sword., 2, 7, 0
+weapon, 3, Iron sword, Iron swords, An iron sword., 5, 9, 0
+weapon, 4, Glass sword, Glass swords, A sword out of glass?, 0, 12, 0
+potion, 5, Healing potion, Healing potions, Heals 5HP, 0, 0, 5
+item, 6, Rat tail, Rat tails, yikes!, 0, 0, 0
+item, 7, Piece of fur, Pieces of fur, 0, 0, 0, 0
+item, 8, Snake fang, Snake fangs, 0, 0, 0, 0 
+item, 9, Snakeskin, Snakeskins, 0, 0, 0, 0 
+item, 10, Spider fang, Spider fangs, 0, 0, 0, 0 
+item, 11, Spider silk, Spider silks, 0, 0, 0, 0 
+item, 12, Adventurer pass, Adventurer passes, 0, 0, 0, 0   

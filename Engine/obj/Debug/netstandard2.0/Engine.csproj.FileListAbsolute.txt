@@ -1,0 +1,9 @@
+G:\Programming\C#\Engine\bin\Debug\netstandard2.0\Engine.deps.json
+G:\Programming\C#\Engine\bin\Debug\netstandard2.0\Engine.dll
+G:\Programming\C#\Engine\bin\Debug\netstandard2.0\Engine.pdb
+G:\Programming\C#\Engine\obj\Debug\netstandard2.0\Engine.csprojAssemblyReference.cache
+G:\Programming\C#\Engine\obj\Debug\netstandard2.0\Engine.csproj.CoreCompileInputs.cache
+G:\Programming\C#\Engine\obj\Debug\netstandard2.0\Engine.AssemblyInfoInputs.cache
+G:\Programming\C#\Engine\obj\Debug\netstandard2.0\Engine.AssemblyInfo.cs
+G:\Programming\C#\Engine\obj\Debug\netstandard2.0\Engine.dll
+G:\Programming\C#\Engine\obj\Debug\netstandard2.0\Engine.pdb

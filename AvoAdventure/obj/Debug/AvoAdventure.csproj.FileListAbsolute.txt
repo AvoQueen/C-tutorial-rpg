@@ -1,0 +1,13 @@
+G:\Programming\C#\AvoAdventure\bin\Debug\AvoAdventure.exe.config
+G:\Programming\C#\AvoAdventure\bin\Debug\AvoAdventure.exe
+G:\Programming\C#\AvoAdventure\bin\Debug\AvoAdventure.pdb
+G:\Programming\C#\AvoAdventure\obj\Debug\AvoAdventure.csprojAssemblyReference.cache
+G:\Programming\C#\AvoAdventure\obj\Debug\AvoAdventure.Properties.Resources.resources
+G:\Programming\C#\AvoAdventure\obj\Debug\AvoAdventure.csproj.GenerateResource.cache
+G:\Programming\C#\AvoAdventure\obj\Debug\AvoAdventure.csproj.CoreCompileInputs.cache
+G:\Programming\C#\AvoAdventure\obj\Debug\AvoAdventure.exe
+G:\Programming\C#\AvoAdventure\obj\Debug\AvoAdventure.pdb
+G:\Programming\C#\AvoAdventure\obj\Debug\AvoAdventure.AvoAdventure.resources
+G:\Programming\C#\AvoAdventure\bin\Debug\Engine.dll
+G:\Programming\C#\AvoAdventure\bin\Debug\Engine.pdb
+G:\Programming\C#\AvoAdventure\obj\Debug\AvoAdventure.csproj.CopyComplete
